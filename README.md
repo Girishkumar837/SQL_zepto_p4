@@ -3,12 +3,12 @@
 Project 
 [Click Here to get Dataset](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv)
 
-![Spotify Project Preview](https://github.com/Girishkumar837/SQL_spotify_p2/blob/main/spotify_2.jpeg?raw=true)
+![Spotify Project Preview](https://github.com/Girishkumar837/SQL_zepto_p4/blob/main/ZEPTO.jpeg)
 
 
 ## 📌 Project Overview
 
-The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
+The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:   
 
 ✅ Set up a messy, real-world e-commerce inventory **database**
 
